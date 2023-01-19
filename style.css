@@ -8,7 +8,7 @@ body , html{
     margin: 0;
     font-family: "IBMPlexSansThai-Medium.woff2";
     background-color: gray;
-    animation: body 1s;
+    animation: body 0.5s;
 }
 
 /*                  scrollbar                    */
