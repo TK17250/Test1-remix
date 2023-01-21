@@ -71,7 +71,7 @@ body , html{
 
 .icon-color {
     color: transparent;
-    text-shadow: 0 0 0 white;
+    text-shadow: 0 0 0 #f8a154;
 }
 
 .a-img {
@@ -154,9 +154,10 @@ body , html{
 }
 
 .icon {
-    width: 25px;
-    height: 25px;
+    width: 35px;
+    height: 35px;
     border-radius: 100%;
+    border: 1px solid white;
 }
 
 /*                  BF                   */
